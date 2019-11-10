@@ -1,12 +1,17 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1559ac19-7278-4dea-9495-a699bbea4af5" name="Default Changelist" comment="" />
+    <list default="true" id="1559ac19-7278-4dea-9495-a699bbea4af5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ConsoleApplication5/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApplication5/Program.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ConsoleApplication5/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -67,14 +72,26 @@
       <option name="presentableId" value="Default" />
       <updated>1573412607171</updated>
       <workItem from="1573412626641" duration="2214000" />
+      <workItem from="1573416489066" duration="430000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
